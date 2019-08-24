@@ -1,3 +1,8 @@
+## Description
+This project is the configuration of GitlabCI to build a reactjs application using docker-compose.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
